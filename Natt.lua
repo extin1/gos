@@ -15,12 +15,12 @@ do
         Lua = {
             Path = SCRIPT_PATH,
             Name = "Nautt.lua",
-            Url = "https://raw.githubusercontent.com/Pussykate/GoS/master/PussyIrelia.lua"
+            Url = "https://raw.githubusercontent.com/extin1/gos/master/Natt.lua"
         },
         Version = {
             Path = SCRIPT_PATH,
             Name = "Nautt.version",
-            Url = "https://raw.githubusercontent.com/Pussykate/GoS/master/PussyIrelia.version"
+            Url = "https://raw.githubusercontent.com/extin1/gos/master/Natt.version"
         }
     }
     
